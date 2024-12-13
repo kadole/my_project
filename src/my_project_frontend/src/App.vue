@@ -18,5 +18,6 @@ getDataFromNBP();
     <img src="/logo2.svg" alt="DFINITY logo" />
     <br />
     <br />
+    {{ rates }}
   </main>
 </template>
